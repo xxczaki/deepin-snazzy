@@ -2,7 +2,7 @@
 
 > Elegant Deepin Terminal theme with bright colors. Based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy/) by [Sindre Sorhus](https://sindresorhus.com).
 
-![Screenshot](https://i.imgur.com/Mha4M6c.png)
+![Screenshot](screenshot.png)
 
 
 ## Install
