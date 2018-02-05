@@ -20,7 +20,7 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 
 ## Note
 
-Don't change your theme after installation, because it will override the configuration file!
+Don't change your theme (using menu) after installation, because it will override the configuration file!
 
 
 ## Related
