@@ -9,13 +9,18 @@
 
 1) `git clone https://github.com/xxczaki/deepin-snazzy.git`
 2) `cd deepin-snazzy && sudo mv -f config.conf ~/.config/deepin/deepin-terminal/`
-3) Done!
+3) Restart your terminal
+4) Done! :unicorn:
 
 
 
 ## Tip
 
 To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, Noto font, and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
+
+## Note
+
+Don't change your theme after installation, because it will override the configuration file!
 
 
 ## Related
