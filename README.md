@@ -1,6 +1,6 @@
 # deepin-snazzy
 
-> Elegant Deepin Terminal theme with bright colors. Based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy/) by [Sindre Sorhus](https://sindresorhus.com).
+> Elegant [Linux Deepin Terminal](https://www.deepin.org/en/2016/09/22/deepin-terminal-v2-0-released-all-can-be-done-in-terminal/) theme with bright colors. Based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy/) by [Sindre Sorhus](https://sindresorhus.com).
 
 ![Screenshot](screenshot.png)
 
