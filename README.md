@@ -12,8 +12,6 @@
 3) Restart your terminal
 4) Done! :unicorn:
 
-
-
 ## Tip
 
 To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, Noto font, and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
