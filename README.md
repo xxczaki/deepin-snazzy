@@ -31,6 +31,8 @@ Tested on Deepin 15.5
 - [vscode-snazzy](https://github.com/Tyriar/vscode-snazzy) - VS Code version
 - [emacs-snazzy](https://github.com/weijiangan/emacs-snazzy) - Emacs version
 - [termite-snazzy](https://github.com/kbobrowski/termite-snazzy) - Termite version
+- [vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Vim version
+- [base16-snazzy](https://github.com/h404bi/base16-snazzy-scheme) - Base16 version
 
 
 ## License
