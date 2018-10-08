@@ -10,7 +10,7 @@
 1) `git clone https://github.com/xxczaki/deepin-snazzy.git`
 2) `cd deepin-snazzy && sudo mv -f config.conf ~/.config/deepin/deepin-terminal/`
 3) Restart your terminal
-4) Done! :unicorn:
+4) Done!
 
 ## Tip
 
