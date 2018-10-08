@@ -19,7 +19,7 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 ## Note
 
 Don't change your theme (using menu) after installation, because it will override the configuration file!
-Tested on Deepin 15.5
+Tested on Deepin 15.7 :unicorn:
 
 
 ## Related
