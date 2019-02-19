@@ -28,6 +28,9 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 - [termite-snazzy](https://github.com/kbobrowski/termite-snazzy) - Termite version
 - [vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Vim version
 - [base16-snazzy](https://github.com/h404bi/base16-snazzy-scheme) - Base16 version
+- [kitty-snazzy](https://github.com/connorholyday/kitty-snazzy) - Kitty version
+- [gnome-terminal-snazzy](https://github.com/tobark/hyper-snazzy-gnome-terminal) - Gnome terminal version
+- [urxvt-snazzy](https://github.com/LeonGr/urxvt-snazzy) - Urxvt version
 
 
 ## License
