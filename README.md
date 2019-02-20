@@ -8,20 +8,14 @@
 ## Install
 
 1) `git clone https://github.com/xxczaki/deepin-snazzy.git`
-2) `cd deepin-snazzy && sudo mv -f config.conf ~/.config/deepin/deepin-terminal/`
+2) `cd deepin-snazzy && chmod +x install.sh && ./install.sh`
 3) Restart your terminal
-4) Done!
+4) Select `snazzy` from the `Themes` tab
+5) Done!
 
 ## Tip
 
 To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, Noto font, and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
-
-## Note
-
-Don't change your theme (using menu) after installation, because it will override the configuration file!
-
-Tested on Deepin 15.7 :unicorn:
-
 
 ## Related
 
@@ -34,6 +28,9 @@ Tested on Deepin 15.7 :unicorn:
 - [termite-snazzy](https://github.com/kbobrowski/termite-snazzy) - Termite version
 - [vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Vim version
 - [base16-snazzy](https://github.com/h404bi/base16-snazzy-scheme) - Base16 version
+- [kitty-snazzy](https://github.com/connorholyday/kitty-snazzy) - Kitty version
+- [gnome-terminal-snazzy](https://github.com/tobark/hyper-snazzy-gnome-terminal) - Gnome terminal version
+- [urxvt-snazzy](https://github.com/LeonGr/urxvt-snazzy) - Urxvt version
 
 
 ## License
